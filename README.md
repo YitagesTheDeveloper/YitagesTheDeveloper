@@ -1,6 +1,3 @@
-Great additions 👍
-Here’s your **updated GitHub Profile `README.md`** with **live demo links added** to the relevant projects. You can copy-paste this directly into your GitHub profile README.
-
 
 # 👋 Hi, I’m Yitages Adane
 
