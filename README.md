@@ -78,7 +78,7 @@ An innovative platform helping farmers diagnose plant diseases and access locali
 
 #### 🔬 Key Features
 
-* 📸 **Multimodal AI Diagnosis (Gemini 2.0 Flash)**
+* 📸 **Multimodal AI Diagnosis (Gemini 3.0 Flash)**
 * 🗣️ Supports Amharic, Afan Oromoo, Tigrigna & English
 * 🎙️ Voice + Image + Text inputs
 * 📈 Smart crop insights & simulated market data
