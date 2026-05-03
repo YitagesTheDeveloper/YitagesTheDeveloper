@@ -1,11 +1,33 @@
+<h1 align="center">Hi there, I'm Yitages Adane 👋</h1>
 
-# 👋 Hi, I’m Yitages Adane
+<p align="center">
+  🚀 <strong>Full-Stack Software Engineer</strong> | React • Next.js • Node.js  
+</p>
 
-🚀 **Full-Stack Software Engineer | React • Next.js • Node.js**
-🎓 4th-Year Software Engineering Student @ Arbaminch University
+<p align="center">
+  🎓 4th-Year Software Engineering Student @ Arbaminch University  
+</p>
 
-I build **performant, scalable, and user-first web applications** using modern JavaScript technologies. My work spans responsive frontends, secure backend APIs, and cloud-ready architectures—always with a focus on clean code, accessibility, and real-world impact.
+<p align="center">
+  I build <strong>scalable, performant, and user-first web applications</strong> with modern technologies,<br/>
+  focusing on clean architecture, accessibility, and real-world impact.
+</p>
 
+---
+
+<p align="center">
+  <a href="mailto:yitagesadane88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Message%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/YitagesTheDeveloper">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
 
 ## 🧠 About Me
 
@@ -13,98 +35,134 @@ I build **performant, scalable, and user-first web applications** using modern J
 * 🧩 Passionate about **clean architecture & developer experience**
 * 🎨 Strong focus on **UI/UX, accessibility, and micro-animations**
 * ⚡ Performance-driven mindset (DX + performance budgets)
-* 🤝 Thrive in collaborative, product-focused teams
+* 🤝 Thrive in **collaborative, product-focused teams**
 
+---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### **Frontend**
+### 🚀 Frontend
 
-React, Next.js, TypeScript, Tailwind CSS, React Query, React Router,
-MUI, Chakra UI, Framer Motion, Chart.js, Vite
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
+### ⚙️ Backend & APIs
 
-### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge)
 
-Node.js, Express.js, JWT Authentication, REST APIs, Web3.js
+### 🗄️ Databases & Cloud
 
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazon-aws)
 
-### **Databases & Cloud**
+### 🧰 Tools & DevOps
 
-MongoDB, MySQL, SQL Server, Prisma, Firebase, AWS, Azure
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 
-
-### **Mobile & Dev Tools**
-
-React Native, Expo, Docker, Kubernetes, Git/GitHub, Postman
-
+---
 
 ## 🚀 Featured Projects
 
-### 🧠 **Yitu GPT**
+### 🌱 Plant Doctor Ethiopia 🇪🇹
+
+**AI-Powered Agricultural Companion**
+
+An innovative platform helping farmers diagnose plant diseases and access localized agricultural insights.
+
+#### 🔬 Key Features
+
+* 📸 **Multimodal AI Diagnosis (Gemini 2.0 Flash)**
+* 🗣️ Supports Amharic, Afan Oromoo, Tigrigna & English
+* 🎙️ Voice + Image + Text inputs
+* 📈 Smart crop insights & simulated market data
+
+#### ⚙️ Tech Stack
+
+Next.js 16 • React 19 • Tailwind CSS • MongoDB • Gemini AI • ImageKit • i18next
+
+🔗 **Live Demo:** https://plant-doctor-ethiopia.vercel.app/
+📂 **GitHub:** *Add your repo link*
+
+---
+
+### 🧠 Yitu GPT
 
 **Full-Stack AI Chat Application**
 
-* Built with React (Vite), Express, and MongoDB
+* React (Vite) + Express + MongoDB
 * OpenAI API integration
-* Secure JWT authentication
-* Stripe payments
-* ImageKit media handling
+* JWT Authentication & Stripe payments
 
-🔗 **Live Demo:** [https://yitu-gpt.vercel.app/](https://yitu-gpt.vercel.app/)
+🔗 https://yitu-gpt.vercel.app/
 
+---
 
-### 🎬 **Netflix Clone**
+### 🎬 Netflix Clone
 
-**High-performance media browsing platform**
+**Media Streaming UI**
 
-* React + Tailwind CSS
+* React + Tailwind
 * TMDB API integration
-* Lazy loading & optimized assets
-* Dynamic categories and detail modals
+* Optimized lazy loading
 
-🔗 **Live Demo:** [https://netflix-clone-2025-by-yitages.vercel.app/](https://netflix-clone-2025-by-yitages.vercel.app/)
+🔗 https://netflix-clone-2025-by-yitages.vercel.app/
 
+---
 
-### 🏨 **Hotel Booking System**
+### 🏨 Hotel Booking System
 
-**Room management & booking interface**
+* Full-stack booking platform
+* Protected routes & pagination
 
-* React, Node.js, MongoDB
-* Protected routes
-* Server-driven tables with pagination
+🔗 Coming soon
 
-🔗 **Live Demo:** *Coming soon*
+---
 
-
-### 🛒 **Amazon Clone**
-
-**E-commerce UI Concept**
+### 🛒 Amazon Clone
 
 * React + Redux
-* Full cart and checkout experience
-* Responsive and accessible grid layout
+* Full cart & checkout flow
 
-🔗 **Live Demo:** [https://yitages-amazon-clone.netlify.app/](https://yitages-amazon-clone.netlify.app/)
+🔗 https://yitages-amazon-clone.netlify.app/
 
+---
 
-## 🎓 Education & Community
+## 🎓 Education
 
-* 🎓 **BSc in Software Engineering** (4th Year)
-  **Arbaminch University**
-* 💻 Focus on full-stack development with modern JavaScript tooling
-* 🌍 Active member of **Arbaminch University Tech Hub**
+🎓 **BSc in Software Engineering (4th Year)**
+Arbaminch University
 
+💻 Focus: Full-stack development & modern JavaScript ecosystems
+🌍 Member: Arbaminch University Tech Hub
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper\&show_icons=true\&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper\&layout=compact\&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-* 📧 **Email:** [yitagesadane88@gmail.com](mailto:yitagesadane88@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/yitages-adane-b89639380/](https://www.linkedin.com/in/yitages-adane-b89639380/)
-* 🧑‍💻 **GitHub:** [https://github.com/YitagesTheDeveloper](https://github.com/YitagesTheDeveloper)
+* 📧 [yitagesadane88@gmail.com](mailto:yitagesadane88@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/yitages-adane-b89639380/
+* 🧑‍💻 GitHub: https://github.com/YitagesTheDeveloper
 
+---
+
+<p align="center">
+  ⭐️ From <strong>YitagesTheDeveloper</strong> — Building impactful solutions with code
+</p>
