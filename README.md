@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YitagesTheDeveloper">
+  <a href="https://yitagesadane-page.netlify.app/">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
