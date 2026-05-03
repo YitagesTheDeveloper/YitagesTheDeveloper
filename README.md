@@ -55,12 +55,11 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge)
 
 ### 🗄️ Databases & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazon-aws)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
 ### 🧰 Tools & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
