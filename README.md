@@ -88,7 +88,6 @@ An innovative platform helping farmers diagnose plant diseases and access locali
 Next.js 16 • React 19 • Tailwind CSS • MongoDB • Gemini AI • ImageKit • i18next
 
 🔗 **Live Demo:** https://plant-doctor-ethiopia.vercel.app/
-📂 **GitHub:** *Add your repo link*
 
 ---
 
