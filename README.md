@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://yitagesadane-page.netlify.app/">
+  <a href="https://github.com/YitagesTheDeveloper">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -55,11 +55,13 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge)
 
 ### 🗄️ Databases & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+
 ### 🧰 Tools & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
@@ -70,24 +72,50 @@
 
 ## 🚀 Featured Projects
 
-### 🌱 Plant Doctor Ethiopia 🇪🇹
+### 🌾 Ethio Smart Agri 🇪🇹
 
-**AI-Powered Agricultural Companion**
+**AI-Driven Agricultural Ecosystem**
 
-An innovative platform helping farmers diagnose plant diseases and access localized agricultural insights.
+A premium platform modernizing the farming experience for millions of Ethiopians — integrating Google Gemini AI with local expertise for plant disease diagnostics, expert advisory, and a specialized marketplace, all in their mother tongue.
 
 #### 🔬 Key Features
 
-* 📸 **Multimodal AI Diagnosis (Gemini 3.0 Flash)**
-* 🗣️ Supports Amharic, Afan Oromoo, Tigrigna & English
-* 🎙️ Voice + Image + Text inputs
-* 📈 Smart crop insights & simulated market data
+* 🔬 **AI-Powered Diagnostics** — Instant, laboratory-grade plant disease detection using Gemini 2.5 Flash with symptoms analysis, treatments, and organic preventative measures
+* 🗣️ Supports **Amharic**, **Afan Oromoo**, **Tigrinya** & **English** across the full UI, diagnostic labels, and voice inputs
+* 🎙️ **Voice-First Interaction** — Farmers can describe symptoms via voice, making it accessible regardless of literacy level
+* 🛒 **Agricultural Marketplace** — Seeds, fertilizers, tools, and machinery with Chapa payment integration
+* 👨‍🔬 **Expert Consultation** — Book verified agricultural specialists for personalized crop & soil guidance
+* 📈 **Real-Time Market Monitoring** — Live prices for Teff, Coffee, Sesame, Maize & more
+* 📱 **Progressive Web App** — Optimized for field use with light and dark mode support
 
 #### ⚙️ Tech Stack
 
-Next.js 16 • React 19 • Tailwind CSS • MongoDB • Gemini AI • ImageKit • i18next
+Next.js 16 • React 19 • Tailwind CSS 4 • MongoDB • Gemini AI 2.5 Flash • ImageKit • Chapa • i18next
 
-🔗 **Live Demo:** https://plant-doctor-ethiopia.vercel.app/
+🔗 **Live Demo:** https://ethio-smart-agri.vercel.app/
+
+---
+
+### 💊 DawaNet
+
+**Online Pharmacy & Medicine Delivery Platform**
+
+A modern, comprehensive pharmacy platform crafted for the Ethiopian market — empowering users to browse medicines, compare prices across verified pharmacies, upload prescriptions, and track deliveries to their doorstep.
+
+#### 🔬 Key Features
+
+* 🏪 **Storefront & Browse** — Intuitive OTC and Rx medicine browsing with dosages, side effects, and stock status
+* 📋 **Prescription Upload System** — Secure drag-and-drop or camera-based prescription capture for Rx-required medications
+* ⚠️ **Drug Interaction Checker** — Built-in warnings for moderate to severe drug interactions based on cart contents
+* 🏥 **Pharmacy Comparison** — Real-time availability, distances, and prices across multiple verified local pharmacies
+* 📦 **Order Tracking** — End-to-end interactive steppers from pending to delivered
+* 👤 **User Dashboard** — Active prescriptions, past deliveries, profiles, and pharmacist chat logs
+
+#### ⚙️ Tech Stack
+
+Next.js 16 • React 19 • Tailwind CSS v4 • Radix UI • shadcn/ui • Framer Motion • React Hook Form • Zod • Phosphor Icons
+
+🔗 **Live Demo:** Coming soon
 
 ---
 
@@ -146,9 +174,19 @@ Arbaminch University
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Yitages's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YitagesTheDeveloper&theme=tokyonight" alt="Yitages's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night" alt="Yitages's Contribution Graph"/>
 </p>
 
 ---
