@@ -194,7 +194,7 @@ Arbaminch University
 ## 📫 Let's Connect
 
 * 📧 [yitagesadane88@gmail.com](mailto:yitagesadane88@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/yitages-adane-b89639380/
+* 💼 LinkedIn: https://www.linkedin.com/in/yitages-adane-b89639380
 * 🧑‍💻 GitHub: https://github.com/YitagesTheDeveloper
 
 ---
