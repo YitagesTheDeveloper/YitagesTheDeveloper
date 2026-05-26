@@ -167,6 +167,7 @@ Next.js 16 • React 19 • Tailwind CSS v4 • Radix UI • shadcn/ui • Frame
 Arbaminch University
 
 💻 Focus: Full-stack development & modern JavaScript ecosystems
+
 🌍 Member: Arbaminch University Tech Hub
 
 ---
