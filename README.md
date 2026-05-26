@@ -214,6 +214,24 @@ Full-stack AI Chat Application
 
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Yitages's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YitagesTheDeveloper&theme=tokyonight" alt="Yitages's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night" alt="Yitages's Contribution Graph"/>
+</p>
+
+---
+
 ---
 
 # 💡 Engineering Philosophy
