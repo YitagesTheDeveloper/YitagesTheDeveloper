@@ -13,17 +13,22 @@ I build scalable, performant, and user-focused applications with modern technolo
 focusing on clean architecture, accessibility, and real-world impact.
 </p>
 
-<p>
+<p align="center">
+
 <a href="mailto:yitagesadane88@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[https://github.com/YitagesTheDeveloper](https://yitagesadane-page.netlify.app/)">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YitagesTheDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://yitagesadane-page.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=for-the-badge" />
