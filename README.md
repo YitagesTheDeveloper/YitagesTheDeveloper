@@ -1,38 +1,37 @@
 <div align="center">
 
-# Hi 👋, I'm Yitages Adane
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Yitages%20Adane&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=55&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20Developer&descAlignY=58&animation=fadeIn" />
 
-### Full-Stack Software Engineer | React • Next.js • Node.js
+# 👋 Hello World, I'm Yitages Adane
 
-🎓 4th Year Software Engineering Student @ Arbaminch University
+### 🚀 Full-Stack Software Engineer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=49B9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;AI+Powered+Solutions;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Next.js+%26+TypeScript+Specialist;AI+Powered+Solutions;Clean+Architecture+Advocate;Always+Learning+New+Technologies" />
 
-<p>
-I build scalable, performant, and user-focused applications with modern technologies,
-focusing on clean architecture, accessibility, and real-world impact.
-</p>
+<br/>
 
 <p align="center">
 
 <a href="mailto:yitagesadane88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YitagesTheDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://yitagesadane-page.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=for-the-badge" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=for-the-badge&color=blue" />
 </p>
 
 </div>
@@ -41,149 +40,244 @@ focusing on clean architecture, accessibility, and real-world impact.
 
 # 🧠 About Me
 
-- 🚀 Specialized in **React, Next.js, Node.js & TypeScript**
-- 🎨 Passionate about **UI/UX, accessibility, and micro-interactions**
-- ⚡ Performance-first engineering mindset
-- 🏗️ Strong believer in **clean architecture and scalable systems**
-- 🤝 Enjoy collaborating in product-focused teams
-- 🌱 Currently exploring **Cloud Native Architecture, Kubernetes & AI Applications**
+I'm a passionate **Full-Stack Software Engineer** and a **4th-year Software Engineering student** focused on building modern, scalable, and impactful digital products.
+
+I specialize in:
+
+- ⚛️ React & Next.js Ecosystem
+- 🟢 MERN Stack Development
+- 🎨 UI/UX Engineering
+- ⚡ Performance Optimization
+- 🏗️ Clean Architecture
+- 🤖 AI-Powered Applications
+- ☁️ Cloud Native Technologies
+
+I enjoy transforming ideas into real-world applications that solve meaningful problems and deliver excellent user experiences.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
+
+<div align="center">
 
 ## 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,bootstrap" />
 
 ---
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ---
 
 ## 🗄️ Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws" />
 
 ---
 
 ## 🚀 DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode" />
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
-## 🌾 Ethio Smart Agri 🇪🇹
+---
 
-### AI-Driven Agricultural Ecosystem
+# 🏨 Michot Stay
 
-A premium platform modernizing agriculture for millions of Ethiopian farmers through AI-powered disease diagnosis, expert advisory services, and an agricultural marketplace.
+## Modern Hotel Booking Platform
 
-### Highlights
+> A production-grade hotel booking ecosystem purpose-built for the Ethiopian market with ETB currency support, analytics dashboards, advanced booking workflows, and enterprise-level architecture.
 
-- 🔬 AI Plant Disease Diagnostics
-- 🎙️ Voice-First Experience
-- 🌍 Multilingual Support
-- 🛒 Agricultural Marketplace
-- 👨‍🔬 Expert Consultation
-- 📈 Real-Time Market Monitoring
-- 📱 Progressive Web App
+---
 
-**Tech Stack**
+## ✨ Key Features
 
-`Next.js 16` • `React 19` • `Tailwind CSS 4` • `MongoDB` • `Gemini 2.5 Flash` • `ImageKit` • `Chapa`
+### 👤 Guest Features
+
+- 🔍 Advanced hotel search & smart filtering
+- 🗺️ Interactive map integration with Leaflet
+- 💳 Secure Stripe payment system
+- ❤️ Wishlist & favorites functionality
+- ⭐ Reviews & ratings
+- ⚡ Real-time autocomplete search
+- 📄 Pagination & optimized browsing
+
+---
+
+### 🏨 Hotel Owner Dashboard
+
+- 🏢 Multi-room registration & management
+- ☁️ Cloudinary media uploads
+- 📊 Revenue analytics dashboard
+- 📈 Booking statistics visualization
+- 📅 Reservation management system
+- 🔐 OTP verified deletion workflow
+
+---
+
+### 🛡️ Admin Features
+
+- ✅ Hotel verification pipeline
+- 👥 User management
+- 📊 Platform-wide analytics
+- 🏨 Booking moderation system
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
+
+</div>
+
+---
+
+## 🌍 Live Demo
+
+### 🔗 https://michot-stay.vercel.app/
+
+---
+
+# 🌾 Ethio Smart Agri
+
+## AI-Powered Agricultural Ecosystem
+
+A next-generation agricultural platform modernizing farming through AI-powered diagnostics, marketplace systems, and expert consultation.
+
+### ✨ Features
+
+- 🔬 AI plant disease diagnostics
+- 🎙️ Voice-first experience
+- 🌍 Multilingual support
+- 🛒 Agricultural marketplace
+- 👨‍🌾 Expert consultation system
+- 📈 Market monitoring dashboard
+- 📱 Progressive Web App support
+
+### 🛠️ Tech Stack
+
+`Next.js 16` • `React 19`
+`Tailwind CSS 4` • `MongoDB`
+`Gemini 2.5 Flash` • `ImageKit`
+`Chapa`
 
 🔗 https://ethio-smart-agri.vercel.app/
 
 ---
 
-## 💊 DawaNet
+# 💊 DawaNet
 
-### Online Pharmacy & Medicine Delivery Platform
+## Online Pharmacy Platform
 
 Comprehensive digital pharmacy ecosystem designed specifically for the Ethiopian healthcare market.
 
-### Highlights
+### ✨ Features
 
-- 🏪 Medicine Marketplace
-- 📋 Prescription Upload
-- ⚠️ Drug Interaction Checker
-- 🏥 Pharmacy Comparison
-- 📦 Order Tracking
-- 👤 User Dashboard
+- 💊 Medicine marketplace
+- 📋 Prescription uploads
+- ⚠️ Drug interaction checker
+- 🏥 Pharmacy comparison
+- 📦 Real-time order tracking
+- 👤 User dashboard
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Next.js 16` • `React 19` • `Tailwind CSS v4`
-`Radix UI` • `shadcn/ui` • `Framer Motion`
-`React Hook Form` • `Zod`
+`Next.js 16`
+`React 19`
+`Tailwind CSS v4`
+`Radix UI`
+`Shadcn/UI`
+`Zod`
+`React Hook Form`
 
 🔗 Coming Soon
 
 ---
 
-## 🧠 Yitu GPT
+# 🧠 Yitu GPT
 
-Full-stack AI Chat Application
+## AI Chat Application
 
-- React (Vite)
-- Express.js
-- MongoDB
-- OpenAI API
-- JWT Authentication
-- Stripe Integration
+Full-stack AI-powered chat platform with secure authentication and Stripe billing integration.
+
+### ✨ Features
+
+- 🤖 OpenAI integration
+- 🔐 JWT authentication
+- 💬 Persistent chat history
+- 💳 Stripe subscriptions
+- ⚡ Fast real-time experience
+
+### 🛠️ Tech Stack
+
+`React`
+`Express.js`
+`MongoDB`
+`OpenAI API`
+`JWT`
+`Stripe`
 
 🔗 https://yitu-gpt.vercel.app/
 
 ---
 
-## 🎬 Netflix Clone
+# 🎬 Netflix Clone
 
-- React
-- Tailwind CSS
-- TMDB API
-- Lazy Loading Optimization
+## Streaming UI Recreation
+
+Pixel-perfect Netflix clone with dynamic content rendering and responsive design.
+
+### ✨ Features
+
+- 🎥 TMDB API integration
+- ⚡ Lazy loading optimization
+- 📱 Responsive UI
+- 🎨 Modern design recreation
+
+### 🛠️ Tech Stack
+
+`React`
+`Tailwind CSS`
+`TMDB API`
 
 🔗 https://netflix-clone-2025-by-yitages.vercel.app/
 
 ---
 
-## 🏨 Hotel Booking System
+# 🛒 Amazon Clone
 
-- Full-Stack Booking Platform
-- Authentication
-- Pagination
-- Protected Routes
+## E-Commerce Application
 
-🔗 Coming Soon
+Modern shopping experience with state management and checkout workflow.
 
----
+### ✨ Features
 
-## 🛒 Amazon Clone
+- 🛍️ Product browsing
+- 🛒 Shopping cart system
+- 💳 Checkout workflow
+- ⚡ Redux state management
 
-- React
-- Redux
-- Shopping Cart
-- Checkout Flow
+### 🛠️ Tech Stack
+
+`React`
+`Redux`
 
 🔗 https://yitages-amazon-clone.netlify.app/
 
@@ -191,23 +285,23 @@ Full-stack AI Chat Application
 
 # 🎓 Education
 
-### BSc in Software Engineering (4th Year)
+## Bachelor of Science in Software Engineering
 
-**Arbaminch University**
+### 🏛️ Arba Minch University
 
-💻 Focus: Full-Stack Development & Modern JavaScript Ecosystem
-
-🌍 Member: Arbaminch University Tech Hub
+- 🎓 4th Year Software Engineering Student
+- 📅 Expected Graduation: June 2027
+- 🌍 Member of AMU Tech Hub
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
 
 <br/>
 
@@ -215,48 +309,51 @@ Full-stack AI Chat Application
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night"/>
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Yitages's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YitagesTheDeveloper&theme=tokyonight" alt="Yitages's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night" alt="Yitages's Contribution Graph"/>
-</p>
-
 ---
+
+# 🌱 Currently Learning
+
+- ☁️ Cloud Native Architecture
+- 🐳 Docker & Kubernetes
+- 🤖 AI Application Engineering
+- ⚡ Advanced Next.js Patterns
+- 🧩 System Design & Scalability
 
 ---
 
 # 💡 Engineering Philosophy
 
-> Build solutions that are scalable, maintainable, accessible, and impactful.
->
-> Technology should solve real problems and create meaningful experiences.
+<div align="center">
+
+> “Build scalable, maintainable, accessible, and impactful software.”
+
+> “Technology should solve real-world problems and create meaningful experiences.”
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 📧 **yitagesadane88@gmail.com**
 
-💼 LinkedIn:
+🌐 Portfolio  
+https://yitagesadane-page.netlify.app
+
+💼 LinkedIn  
 https://www.linkedin.com/in/yitages-adane-b89639380/
 
-🧑‍💻 GitHub:
+🧑‍💻 GitHub  
 https://github.com/YitagesTheDeveloper
 
 </div>
@@ -265,8 +362,8 @@ https://github.com/YitagesTheDeveloper
 
 <div align="center">
 
-### ⭐ Building impactful solutions with code
+# ⭐ Thanks for visiting my profile
 
-**YitagesTheDeveloper**
+### Building impactful digital experiences with modern technologies 🚀
 
 </div>
