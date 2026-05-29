@@ -1,240 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FF4500&height=200&section=header&text=Yitages%20Adane&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,0D2137,0A3D62&height=220&text=Yitages%20Adane&fontColor=E0F7FA&fontSize=58&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descAlignY=72&descSize=18&descColor=4DD0E1&animation=blinking" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%94%A5;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+Scalable+Real-World+Applications;AI-Powered+Solutions+for+Real+Problems;Always+Shipping%2C+Always+Learning" />
+</div>
 
 <br/>
 
-<a href="mailto:yitagesadane88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yitages-adane-b89639380/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" />
-</a>
-<a href="https://github.com/YitagesTheDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" />
-</a>
-<a href="https://yitagesadane-page.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=for-the-badge&color=FF6B00&labelColor=0A0A0A" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=4DD0E1&center=true&vCenter=true&width=680&lines=const+stack+%3D+%5B+%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22TypeScript%22+%5D%3B;Building+production-grade+apps+for+the+Ethiopian+market+%F0%9F%87%AA%F0%9F%87%B9;AI+%C3%97+Cloud+%C3%97+Full-Stack+%3D+Real-World+Impact;4th+Year+%40+Arba+Minch+University+%7C+Shipping+Since+Day+One" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-yitagesadane88%40gmail.com-0A3D62?style=flat-square&logo=gmail&logoColor=4DD0E1)](mailto:yitagesadane88@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A3D62?style=flat-square&logo=linkedin&logoColor=4DD0E1)](https://www.linkedin.com/in/yitages-adane-b89639380/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A3D62?style=flat-square&logo=vercel&logoColor=4DD0E1)](https://yitagesadane-page.netlify.app)&nbsp;
+[![GitHub](https://img.shields.io/badge/-YitagesTheDeveloper-0A3D62?style=flat-square&logo=github&logoColor=4DD0E1)](https://github.com/YitagesTheDeveloper)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=flat-square&color=0A3D62&label=Profile+Views)
 
 </div>
 
 ---
 
-## `> whoami`
+## 〔 About 〕
 
-```ts
-const yitages = {
-  role     : "Full-Stack Software Engineer",
-  degree   : "BSc Software Engineering — 4th Year @ Arba Minch University",
-  location : "Adama, Ethiopia 🇪🇹",
-  focus    : ["React", "Next.js", "Node.js", "TypeScript"],
-  currently: ["Cloud Native Architecture", "Kubernetes", "AI Applications"],
-  motto    : "Build solutions that are scalable, maintainable, accessible, and impactful."
-};
+```
+  Location   →  Adama, Ethiopia 🇪🇹
+  Degree     →  BSc Software Engineering, 4th Year — Arba Minch University
+  Focus      →  React · Next.js · Node.js · TypeScript · AI Applications
+  Exploring  →  Cloud Native · Kubernetes · LLM-powered Products
+  Community  →  Member, AMU Tech Hub (2024 — Present)
+  Motto      →  "Ship fast. Scale right. Make it matter."
 ```
 
-- 🔥 Specialized in **React, Next.js, Node.js & TypeScript**
-- 🎨 Passionate about **UI/UX, accessibility & micro-interactions**
-- ⚡ Performance-first engineering mindset
-- 🏗️ Strong believer in **clean architecture and scalable systems**
-- 🤝 Thrive in **product-focused, collaborative teams**
-- 🌱 Member of **AMU Tech Hub**
+I build **scalable, accessible, and production-grade** applications with a focus on real-world impact — particularly for underserved markets in East Africa. I care deeply about clean architecture, performance, and UI/UX that actually works for people.
 
 ---
 
-## `> tech --stack`
+## 〔 Stack 〕
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF6B00)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=FF6B00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=FF6B00)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=FF6B00)
-![Redux](https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=FF6B00)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=FF6B00)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=FF6B00)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FF6B00)
-![JWT](https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=FF6B00)
-![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=FF6B00)
+**Frontend**
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=FF6B00)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=FF6B00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FF6B00)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FF6B00)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=FF6B00)
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF6B00)
+![React](https://img.shields.io/badge/React-0D2137?style=flat-square&logo=react&logoColor=4DD0E1)
+![Next.js](https://img.shields.io/badge/Next.js-0D2137?style=flat-square&logo=next.js&logoColor=E0F7FA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D2137?style=flat-square&logo=typescript&logoColor=4DD0E1)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D2137?style=flat-square&logo=tailwind-css&logoColor=4DD0E1)
+![Redux](https://img.shields.io/badge/Redux-0D2137?style=flat-square&logo=redux&logoColor=4DD0E1)
+![Framer](https://img.shields.io/badge/Framer_Motion-0D2137?style=flat-square&logo=framer&logoColor=4DD0E1)
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FF6B00)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=FF6B00)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF6B00)
-![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6B00)
-![Clerk](https://img.shields.io/badge/Clerk-0A0A0A?style=for-the-badge&logo=clerk&logoColor=FF6B00)
-![Stripe](https://img.shields.io/badge/Stripe-0A0A0A?style=for-the-badge&logo=stripe&logoColor=FF6B00)
+**Backend & APIs**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-0D2137?style=flat-square&logo=node.js&logoColor=4DD0E1)
+![Express](https://img.shields.io/badge/Express-0D2137?style=flat-square&logo=express&logoColor=E0F7FA)
+![REST](https://img.shields.io/badge/REST_API-0D2137?style=flat-square&logo=fastapi&logoColor=4DD0E1)
+![JWT](https://img.shields.io/badge/JWT-0D2137?style=flat-square&logo=jsonwebtokens&logoColor=4DD0E1)
 
-## `> projects --featured`
+</td>
+<td valign="top" width="50%">
 
----
+**Databases & Cloud**
 
-### 🌾 Ethio Smart Agri 🇪🇹 — *AI Agricultural Ecosystem*
+![MongoDB](https://img.shields.io/badge/MongoDB-0D2137?style=flat-square&logo=mongodb&logoColor=4DD0E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D2137?style=flat-square&logo=postgresql&logoColor=4DD0E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D2137?style=flat-square&logo=mysql&logoColor=4DD0E1)
+![Supabase](https://img.shields.io/badge/Supabase-0D2137?style=flat-square&logo=supabase&logoColor=4DD0E1)
+![Firebase](https://img.shields.io/badge/Firebase-0D2137?style=flat-square&logo=firebase&logoColor=4DD0E1)
+![AWS](https://img.shields.io/badge/AWS-0D2137?style=flat-square&logo=amazonaws&logoColor=4DD0E1)
 
-> Modernizing Ethiopian agriculture through AI-powered diagnostics, expert advisory, and a full marketplace for millions of farmers.
+**Services & DevOps**
 
-| Feature | Description |
-|---|---|
-| 🔬 AI Diagnostics | Plant disease detection from photos |
-| 🎙️ Voice-First | Accessible voice interface for farmers |
-| 🌍 Multilingual | Amharic & English support |
-| 🛒 Marketplace | Full agricultural e-commerce |
-| 👨‍🔬 Expert Advisory | Real-time consultation system |
-| 📈 Market Data | Live price & trend monitoring |
-| 📱 PWA | Works offline on any device |
+![Clerk](https://img.shields.io/badge/Clerk-0D2137?style=flat-square&logo=clerk&logoColor=4DD0E1)
+![Stripe](https://img.shields.io/badge/Stripe-0D2137?style=flat-square&logo=stripe&logoColor=4DD0E1)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D2137?style=flat-square&logo=cloudinary&logoColor=4DD0E1)
+![Docker](https://img.shields.io/badge/Docker-0D2137?style=flat-square&logo=docker&logoColor=4DD0E1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D2137?style=flat-square&logo=kubernetes&logoColor=4DD0E1)
+![Git](https://img.shields.io/badge/Git-0D2137?style=flat-square&logo=git&logoColor=4DD0E1)
 
-**Stack:** `Next.js 16` • `React 19` • `Tailwind CSS 4` • `MongoDB` • `Gemini 2.5 Flash` • `ImageKit` • `Chapa`
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=for-the-badge)](https://ethio-smart-agri.vercel.app/)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏨 Michot Stay — *Full-Stack Hotel Booking Platform*
+## 〔 Projects 〕
 
-> A production-grade hotel reservation ecosystem purpose-built for the Ethiopian market with ETB currency, multi-role dashboards, and enterprise-level features.
+<details open>
+<summary><b>🏨 Michot Stay — Hotel Booking Platform</b> &nbsp;<code>Production</code></summary>
 
-| For Guests | For Owners | For Admins |
+<br/>
+
+> A full-stack hotel reservation ecosystem for the Ethiopian market — ETB currency, multi-role dashboards, interactive maps, and enterprise-grade features.
+
+```yaml
+stack:
+  framework   : Next.js 15 · TypeScript
+  styling     : Tailwind CSS · Framer Motion
+  database    : MongoDB Atlas
+  auth        : Clerk
+  payments    : Stripe
+  media       : Cloudinary
+  maps        : Leaflet + Nominatim
+  charts      : Recharts
+  email       : EmailJS
+```
+
+**Features across 3 roles:**
+- 👤 **Guests** — Advanced filtering, interactive map, Stripe checkout, wishlists, reviews, autocomplete
+- 🏪 **Owners** — Room management, Cloudinary media uploads, revenue charts, OTP-verified deletion
+- 🛡️ **Admins** — Hotel verification pipeline, platform stats, user management
+
+[![Live →](https://img.shields.io/badge/Live_→-0A3D62?style=flat-square&logo=vercel&logoColor=4DD0E1)](https://michot-stay.vercel.app/)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🌾 Ethio Smart Agri — AI Agricultural Ecosystem 🇪🇹</b> &nbsp;<code>Production</code></summary>
+
+<br/>
+
+> Modernizing Ethiopian agriculture with AI-powered plant diagnostics, an expert advisory network, and a full agri-marketplace — designed for millions of rural farmers.
+
+```yaml
+stack:
+  framework   : Next.js 16 · React 19
+  styling     : Tailwind CSS 4
+  ai_model    : Gemini 2.5 Flash
+  database    : MongoDB
+  media       : ImageKit
+  payments    : Chapa (ETB)
+  pwa         : true
+  languages   : Amharic · English
+```
+
+**Highlights:** AI disease detection from photos · Voice-first UX · Offline PWA · Live market prices · Expert consultation
+
+[![Live →](https://img.shields.io/badge/Live_→-0A3D62?style=flat-square&logo=vercel&logoColor=4DD0E1)](https://ethio-smart-agri.vercel.app/)
+
+</details>
+
+---
+
+<details>
+<summary><b>💊 DawaNet — Online Pharmacy Platform</b> &nbsp;<code>In Progress</code></summary>
+
+<br/>
+
+> Digital pharmacy ecosystem for the Ethiopian healthcare market with prescription management, drug interaction checks, and real-time order tracking.
+
+```yaml
+stack: Next.js 16 · React 19 · Tailwind CSS v4 · Radix UI · shadcn/ui · Zod · React Hook Form
+```
+
+[![Soon →](https://img.shields.io/badge/Coming_Soon-0D2137?style=flat-square&logoColor=4DD0E1)]()
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 Yitu GPT &nbsp;·&nbsp; 🎬 Netflix Clone &nbsp;·&nbsp; 🛒 Amazon Clone</b></summary>
+
+<br/>
+
+| Project | Stack | Link |
 |---|---|---|
-| 🔍 Advanced Search & Filters | 🏪 Hotel Registration | ✅ Hotel Verification |
-| 🗺️ Interactive Map View | 📊 Revenue Analytics | 📈 Platform Statistics |
-| 💳 Secure Stripe Payments | 🖼️ Cloudinary Media Upload | 👥 User Management |
-| ❤️ Wishlist & Reviews | 📋 Booking Dashboard | — |
-| 📄 Pagination & Autocomplete | 🔐 OTP-Verified Deletion | — |
+| **Yitu GPT** — Full-stack AI chat with billing | React · Express · MongoDB · OpenAI · Stripe | [![→](https://img.shields.io/badge/Live-0A3D62?style=flat-square&logoColor=4DD0E1)](https://yitu-gpt.vercel.app/) |
+| **Netflix Clone** — Streaming UI with TMDB data | React · Tailwind · TMDB API | [![→](https://img.shields.io/badge/Live-0A3D62?style=flat-square&logoColor=4DD0E1)](https://netflix-clone-2025-by-yitages.vercel.app/) |
+| **Amazon Clone** — E-commerce with Redux cart | React · Redux · Checkout Flow | [![→](https://img.shields.io/badge/Live-0A3D62?style=flat-square&logoColor=4DD0E1)](https://yitages-amazon-clone.netlify.app/) |
 
-**Stack:** `Next.js 15` • `TypeScript` • `Tailwind CSS` • `MongoDB Atlas` • `Clerk` • `Stripe` • `Cloudinary` • `Leaflet` • `Recharts` • `Framer Motion`
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=for-the-badge)](https://michot-stay.vercel.app/)
+</details>
 
 ---
 
-### 💊 DawaNet — *Online Pharmacy & Medicine Delivery*
-
-> A comprehensive digital pharmacy ecosystem designed for the Ethiopian healthcare market.
-
-| Feature | Description |
-|---|---|
-| 🏪 Marketplace | Browse & order medicines |
-| 📋 Prescriptions | Secure prescription uploads |
-| ⚠️ Drug Checker | Interaction warnings |
-| 🏥 Comparison | Compare pharmacies |
-| 📦 Tracking | Real-time order status |
-
-**Stack:** `Next.js 16` • `React 19` • `Tailwind CSS v4` • `Radix UI` • `shadcn/ui` • `Framer Motion` • `Zod`
-
-[![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-0A0A0A?style=for-the-badge)]()
-
----
-
-### 🧠 Yitu GPT — *Full-Stack AI Chat Application*
-
-> Feature-complete AI chat platform with authentication and Stripe billing.
-
-**Stack:** `React (Vite)` • `Express.js` • `MongoDB` • `OpenAI API` • `JWT` • `Stripe`
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=for-the-badge)](https://yitu-gpt.vercel.app/)
-
----
-
-### 🎬 Netflix Clone — *Streaming UI Replica*
-
-> Pixel-perfect Netflix UI with lazy loading optimization and live movie data.
-
-**Stack:** `React` • `Tailwind CSS` • `TMDB API` • `Lazy Loading`
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=for-the-badge)](https://netflix-clone-2025-by-yitages.vercel.app/)
-
----
-
-### 🛒 Amazon Clone — *E-Commerce Platform*
-
-> Full shopping experience with cart management and checkout flow.
-
-**Stack:** `React` • `Redux` • `Shopping Cart` • `Checkout Flow`
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=for-the-badge)](https://yitages-amazon-clone.netlify.app/)
-
----
-
-## `> education --list`
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year |
-|---|---|---|
-| BSc Software Engineering *(4th Year)* | Arba Minch University, Ethiopia | Expected June 2027 |
-| MERN Stack Certification | Evangadi Tech *(Online, 6-month intensive)* | 2024 |
-
----
-
-## `> analytics --github`
+## 〔 Stats 〕
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&count_private=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=dark&title_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=github_dark&title_color=4DD0E1&icon_color=4DD0E1&text_color=E0F7FA&bg_color=0D1117&border_color=0A3D62&ring_color=4DD0E1&count_private=true&include_all_commits=true&hide_border=false"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=github_dark&title_color=4DD0E1&text_color=E0F7FA&bg_color=0D1117&border_color=0A3D62&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=darkhub&no-frame=true&row=1&column=7&title_color=FF6B00"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=github-dark-blue&background=0D1117&border=0A3D62&ring=4DD0E1&fire=E0F7FA&currStreakNum=E0F7FA&sideNums=E0F7FA&currStreakLabel=4DD0E1&sideLabels=4DD0E1&dates=4DD0E1"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=github-compact&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&bg_color=0D1117&color=4DD0E1&line=0A3D62&point=4DD0E1&area=true&area_color=0A3D62&hide_border=false&border_color=0A3D62"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=nord&no-frame=false&row=1&column=7&margin-w=8"/>
 
 </div>
 
 ---
 
-## `> philosophy --engineering`
+## 〔 Education 〕
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   "Build solutions that are scalable, maintainable,              │
-│    accessible, and impactful.                                     │
-│                                                                   │
-│    Technology should solve real problems and                      │
-│    create meaningful experiences."                                │
-│                                                                   │
-│                                          — Yitages Adane         │
-└─────────────────────────────────────────────────────────────────┘
+BSc Software Engineering (4th Year)     Arba Minch University  ·  Expected June 2027
+MERN Stack Certification (2024)         Evangadi Tech — 6-month intensive program
 ```
 
 ---
 
-## `> contact --connect`
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/yitagesadane88@gmail.com-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yitagesadane88@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/yitages-adane-b89639380/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/YitagesTheDeveloper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yitagesadane-page.netlify.app)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Build for real people.  Ship for real markets.             │
+│  Code that solves problems the world actually has.          │
+└──────────────────────────────────────────────────────────────┘
+```
 
-</div>
+[![Email](https://img.shields.io/badge/Say_Hello-4DD0E1?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:yitagesadane88@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D62,0D2137,0D1117&height=100&section=footer&reversal=false" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FF4500&height=120&section=footer&fontSize=20&fontColor=FFFFFF&animation=fadeIn" />
-
-<div align="center">
-  <sub>⚡ <strong>YitagesTheDeveloper</strong> — Shipping impactful solutions, one commit at a time.</sub>
 </div>
