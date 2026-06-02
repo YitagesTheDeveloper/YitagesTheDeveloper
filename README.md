@@ -295,26 +295,20 @@ Modern shopping experience with state management and checkout workflow.
 
 ---
 
-# 📈 GitHub Analytics
-
+## `> analytics --github`
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=dark&title_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&langs_count=8"/>
+<br/><br/>
+ 
+<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888"/>
+<br/><br/>
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=darkhub&no-frame=true&row=1&column=7&title_color=FF6B00"/>
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=github-compact&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00"/>
 </div>
 
 ---
