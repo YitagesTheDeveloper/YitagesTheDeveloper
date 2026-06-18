@@ -43,7 +43,7 @@
 Motivated and results-driven Full-Stack MERN developer with a strong foundation in modern full-stack
 development. Proven ability to architect, build, and ship production-grade web applications using the MERN
 stack and the Next.js ecosystem. Passionate about clean architecture, scalable systems, UI/UX accessibility, and
-delivering real-world impact through technology
+delivering real-world impact through technology.
 
 I specialize in:
 
