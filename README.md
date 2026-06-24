@@ -302,7 +302,8 @@ Modern shopping experience with state management and checkout workflow.
  
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=dark&title_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&langs_count=8"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=dark&title_color=FF6B00&text_color=FFFFFF&bg_color=0A0A0A&border_color=FF6B00&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"/>
 <br/><br/>
  
 <img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888"/>
